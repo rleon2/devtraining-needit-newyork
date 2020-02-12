@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Assignee Categories</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_assignee_category</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_58872_needit.needit_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2020-02-10 23:40:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>16766e4fdbf200106a942fb74896194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assignee Categories</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_16766e4fdbf200106a942fb74896194e</sys_update_name>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2020-02-10 23:40:13</sys_updated_on>
+        <timeline_page/>
+        <title>Assignee Categories</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>553afeacdbde1f006578f22ebf961938</instance_id>
+        <instance_name>dev59919</instance_name>
+        <name>sys_app_module_16766e4fdbf200106a942fb74896194e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Assignee Categories</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_assignee_category</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_58872_needit.needit_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>fred.luddy</sys_created_by><sys_created_on>2020-02-10 23:40:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>16766e4fdbf200106a942fb74896194e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Assignee Categories</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_16766e4fdbf200106a942fb74896194e</sys_update_name><sys_updated_by>fred.luddy</sys_updated_by><sys_updated_on>2020-02-10 23:40:13</sys_updated_on><timeline_page/><title>Assignee Categories</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>328216827</payload_hash>
+        <record_name>Assignee Categories</record_name>
+        <reverted_from/>
+        <source>c23fa24ddb3200106a942fb7489619e0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2020-02-10 23:40:13</sys_created_on>
+        <sys_id>9a762ecfdbf200106a942fb74896195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1703179895a0000001</sys_recorded_at>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2020-02-10 23:40:13</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d2762ecf25f2001016bd3d4edd7cad5d</update_guid>
+        <update_guid_history>d2762ecf25f2001016bd3d4edd7cad5d:328216827</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Assignee Categories">8a2d8257db3200106a942fb748961944</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-11 16:28:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>6e8b5471cc53400c97a2993ba055bde1</sys_id>
+        <sys_metadata>16766e4fdbf200106a942fb74896194e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assignee Categories</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_16766e4fdbf200106a942fb74896194e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_16766e4fdbf200106a942fb74896194e">9a762ecfdbf200106a942fb74896195d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-11 16:28:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
